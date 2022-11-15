@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="E:/Web Portfolio/Project/Web Pages/Style.css">
+    <script src="script.js"></script>
+    <script src="smooth.js"></script>
+    <title>Orange|Top</title>
+    <div class="TopSection">
+            <header class="ContainerTop">
+            <a class="logo"href="#"><img src="E:Web Portfolio\Project\Images\logo-01-01.svg" alt="Logo-01" class="logo" height="58" width="120"></a>
+            <a class="button" href="E:Web Portfolio/Project/Web Pages/index.html#Projects">GO TO PROJECTS</a>
+            </header>
+    </div>
+ </head>
+
+<body>
+    <div class="body-wrap">
+    <div class="js-scroll">
+<Section class="Concept6">
+    <div class="main-container">
+    <div class="Container2 reveal">
+    <div class="Lists-9"> 
+            <h1 class="ProjectHeading">ITEMS</h1>
+            <p class="ProjectDescription">Branding</p>
+    </div>
+    <div class="Lists-10"> 
+            <h1 class="Client">Facebook</h1>
+            <p class="Brief"> The design brief was to create a illustration that can depict a visual summary of the film 
+            The Social Network, and also the events that took place before the development of Facebook.</p>
+    </div>
+    </div>
+    </div>
+</Section>
+
+<div class="background">
+    <div class="imagedesign"><img class="image" src="E:Web Portfolio\Project\Page Images\poster 2\Poster 2.jpg" alt="Sisonke_1980" width="1010px"></div>
+</div>
+
+<footer>
+    <div class="background2">
+    <div class="NavigationSection"> 
+        <a class="button-3" href="E:Web Portfolio/Project/Web Pages/Poster.html">PREVOIUS</a>
+        <a class="button-2" href="E:Web Portfolio/Project/Web Pages/Chanel.html">NEXT</a>
+    </div>  
+    </div>
+
+    <div class="background3">
+    <div class="NavigationSection2">
+    <p class="Infor"> &copy; THANKS for the visit have a great <strong class="day"></strong> day// </p>
+    <div class="hello-footer">
+        <a class="mail2" href = "mailto: blukoconut@gmail.com"><span>HELLO&#9993;</span></a> 
+    </div>
+        <span class="giticon" href = "mailto: blukoconut@gmail.com">GITHUB</span>
+    </div> 
+</div>
+</div>
+</footer> 
+</body>
+</html>
+
+
